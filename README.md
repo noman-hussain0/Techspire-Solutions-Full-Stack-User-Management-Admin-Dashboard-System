@@ -41,7 +41,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/noman-hussain0/techspire-solutions.git
+git clone https://github.com/noman-hussain0/Techspire-Solutions-Full-Stack-User-Management-Admin-Dashboard-System.git
 cd techspire-solutions
 ```
 

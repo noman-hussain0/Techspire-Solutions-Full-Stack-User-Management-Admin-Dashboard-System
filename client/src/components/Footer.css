@@ -1,0 +1,11 @@
+.footer {
+    background-color: #4B50C4;
+    /* violet-blue tone */
+    color: #e0e0e0;
+    /* light gray text */
+    text-align: center;
+    padding: 1.5rem 0;
+    font-size: 1rem;
+    font-family: Urbanist, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}

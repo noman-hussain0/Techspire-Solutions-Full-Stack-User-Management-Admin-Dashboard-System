@@ -1,7 +1,7 @@
 
 # 🚀 Techspire Solutions
 
-**Techspire Solutions** is a full-stack MERN web application that provides secure user authentication,<br> role-based access, and an admin dashboard for managing users and messages. The system is designed with scalability, security, and user experience in mind.
+**Techspire Solutions** is a full-stack MERN web application that provides secure user authentication, role-based access, and an admin dashboard for managing users and messages. The system is designed with scalability, security, and user experience in mind.
 
 ## 📌 Features
 
@@ -108,7 +108,7 @@ techspire-solutions/
 ## 👨‍💻 Author
 
 **Noman Hussain**  
-💼 LinkedIn: https://www.linkedin.com/in/noman-hussain0
+💼 LinkedIn: https://www.linkedin.com/in/noman-hussain0 <br>
 📧 Email: nomanhussain286@gmail.com
 
  

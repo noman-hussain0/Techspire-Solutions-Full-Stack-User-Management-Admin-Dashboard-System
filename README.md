@@ -35,48 +35,7 @@
 - jsonwebtoken (JWT) – Token-based authentication  
 - zod – Schema validation for inputs  
 - Custom centralized error middleware  
-
-## 🔧 Installation & Setup
-
-### Clone the repository
-
-```bash
-git clone https://github.com/noman-hussain0/Techspire-Solutions-Full-Stack-User-Management-Admin-Dashboard-System.git
-cd techspire-solutions
-```
-
-### Backend Setup
-
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file in the `backend/` folder with the following variables:
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-```
-
-Start the backend server:
-
-```bash
-npm run dev
-```
-
-### Frontend Setup
-
-```bash
-cd ../frontend
-npm install
-npm start
-```
-
-The frontend will run on:  
-**http://localhost:5000**
-
+ 
 ## 📂 Folder Structure
 
 ```
